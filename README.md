@@ -1,6 +1,9 @@
 # Obstacle-Avoiding-Autonomous-Car
 Arduino-based Autonomous Obstacle Avoiding Robot using Ultrasonic Sensor, Servo Motor and Motor Shield.
 
+<img width="864" height="581" alt="OBSTICLE" src="https://github.com/user-attachments/assets/5eefae0d-9206-4c93-ae17-82c1c6f81a40" />
+
+
 ## System Overview
 
 This project demonstrates an Arduino-based Obstacle Avoiding Car that
