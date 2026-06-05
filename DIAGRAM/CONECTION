@@ -1,1 +1,22 @@
+MOTOR1 → Motor Driver Shield
+● Red Wire → M1
+● Black Wire → M1
 
+MOTOR2 → Motor Driver Shield
+● Red Wire → M4
+● Black Wire → M4
+
+Servo → Motor Driver Shield (Servo Header)
+● Brown Wire → GND
+● Red Wire → VCC
+● Orange Wire → Signal
+
+Ultrasonic Sensor (HC-SR04) → Motor Driver Shield
+● VCC → +5V
+● Trig → A0
+● Echo → A1
+● GND → GND
+
+Battery (7.4-9V) → Motor Driver Shield
+● Positive (Red) → Switch → +M
+● Negative (Black) → GND
