@@ -38,8 +38,11 @@ motors.
 https://github.com/user-attachments/assets/fc24b2b9-e8f7-4437-a293-2188c7a05219
 
 
-
-
-    
 ## Author
+
 Al Hasan Ahmed Sharik
+
+Department of Mechanical Engineering
+
+Ahsanullah University of Science and Technology(AUST)
+
